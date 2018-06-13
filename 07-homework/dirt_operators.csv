@@ -1,0 +1,21 @@
+Coal_Metal,Commodity,Mine_Name,Operator,Status,Type,id,state
+M ,"Crushed, Broken Stone NEC ",Newberg Rock & Dirt,Newberg Rock & Dirt  ,Active ,Surface,3503598,OR 
+M ,Construction Sand and Gravel ,BENDER SAND & DIRT,Bender Sand & Dirt  ,Intermittent ,Surface,1401575,KS 
+M ,Construction Sand and Gravel ,Bush Pilot,Dirt Company  ,Intermittent ,Surface,5001797,AK 
+M ,Construction Sand and Gravel ,Rock Lake Plant,Dirt Doctor Inc  ,Intermittent ,Surface,2103723,MN 
+M ,Construction Sand and Gravel ,Astec Plant,Dirt Work Specialists LLC  ,Intermittent ,Surface,2103914,MN 
+M ,Construction Sand and Gravel ,Portable #1,Dirt Works  ,Intermittent ,Surface,4104757,TX 
+M ,"Sand, Common ",River Road Pit,"Holley Dirt Company, Inc  ",Active ,Surface,801306,FL 
+M ,Construction Sand and Gravel ,PORTABLE SCREENER,Krueger Brothers Gravel & Dirt  ,Intermittent ,Surface,3901432,SD 
+M ,Construction Sand and Gravel ,Forbes Pit,M R Dirt  ,Temporarily Idled ,Surface,3609624,PA 
+M ,Dimension Stone NEC ,Camptown Quarry,M.R. Dirt Inc.  ,Intermittent ,Surface,3609931,PA 
+C ,Coal (Bituminous) ,Fedscreek Surface,"P B Dirt Movers, Inc  ",Active ,Surface,1519799,KY 
+C , ,No. 3,"P B Dirt Movers, Inc.  ",New Mine ,Surface,4407379,VA 
+C ,Coal (Bituminous) ,Mine No. 6,PB Dirt Movers  ,Temporarily Idled ,Underground,4407296,VA 
+M ,Construction Sand and Gravel ,Sandretto Drive,"Prescott Dirt, LLC  ",Intermittent ,Surface,203332,AZ 
+M ,Construction Sand and Gravel ,R D BLANKENSHIP DIRT WORK,R D Blankenship Dirt Work LLC  ,Active ,Surface,2901986,NM 
+M ,"Sand, Common ",Molino Pit,"Sand & Dirt, Inc  ",Active ,Surface,801417,FL 
+M ,Construction Sand and Gravel ,Pettibone Jaw Crusher,SIMPSON DIRTWORX LLC  ,Intermittent ,Surface,4300768,VT 
+M ,Construction Sand and Gravel ,Chieftan 1400,SIMPSON DIRTWORX LLC  ,Intermittent ,Surface,4300776,VT 
+M ,Construction Sand and Gravel ,Mike's Money Pit,"Spry's Dirt & Gravel, Inc.  ",Intermittent ,Surface,2302283,MO 
+M ,Construction Sand and Gravel ,Crusher,Vogt Dirt Service  ,Intermittent ,Surface,2103518,MN 
