@@ -1,0 +1,14 @@
+####################################
+How to get an email every day at 8am
+####################################
+
+
+- Terminal connected with the server
+
+- crontab -e
+
+- scroll down and write:
+
+* 8 * * * python3 Homework-09.py
+
+- safe it and exit.
