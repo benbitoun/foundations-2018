@@ -9,6 +9,6 @@ How to get an email every day at 8am
 
 - scroll down and write:
 
-* 8 * * * python3 Homework-09.py
+0 8 * * * python3 Homework-09.py
 
 - safe it and exit.
