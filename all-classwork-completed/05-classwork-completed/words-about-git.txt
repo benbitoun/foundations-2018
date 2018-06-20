@@ -1,0 +1,16 @@
+github = social thing, public thing, whatever
+
+git = version control system (VCS)
+
+- create checkpoints of your code
+- or versions or revisions
+- whatever you want to call them
+
+- checkpoints/revisions - commit
+- project = repository
+
+Click "Clone an existing repository"
+"Copy one of our projects from GitHub"
+
+
+

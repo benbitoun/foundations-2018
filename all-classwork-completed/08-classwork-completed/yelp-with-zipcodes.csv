@@ -1,0 +1,21 @@
+address,zipcode,categories,name,price,rating,url,price_range,somas_opinion
+"39 W 19th St
+New York, NY 10011",10011,"Seafood, Burgers",Burger & Lobster,$$,4.0,https://www.yelp.com/biz/burger-and-lobster-new-york?osq=burgers,normal,hate
+"67 Clinton St
+New York, NY 10002",10002,Burgers,The Burgary,$$,4.5,https://www.yelp.com/biz/the-burgary-new-york?osq=burgers,normal,hate
+"225 S 1st St
+Brooklyn, NY 11211",11211,"Gastropubs, Burgers",Juanchi’s Burger,$$,4.5,https://www.yelp.com/biz/juanchis-burger-brooklyn?osq=burgers,normal,hate
+"245 W 38th St
+New York, NY 10018",10018,Burgers,Black Iron Burger,$$,4.0,https://www.yelp.com/biz/black-iron-burger-new-york-8?osq=burgers,normal,hate
+"181 Essex St
+New York, NY 10002",10002,"American (New), Breakfast & Brunch, Burgers",Benson’s NYC,$$,4.5,https://www.yelp.com/biz/bensons-nyc-new-york?osq=burgers,normal,hate
+"83 Baxter St
+New York, NY 10013",10013,"Burgers, Mexican",Breakroom,$,4.5,https://www.yelp.com/biz/breakroom-new-york?osq=burgers,cheap,love
+"282 Atlantic Ave
+Brooklyn, NY 11201",11201,"Burgers, Bars",Two 8 Two Bar & Burger,$$,4.0,https://www.yelp.com/biz/two-8-two-bar-and-burger-brooklyn?osq=burgers,normal,hate
+"131 2nd Ave
+New York, NY 10003",10003,Burgers,Paul’s Da Burger Joint,$,4.0,https://www.yelp.com/biz/pauls-da-burger-joint-new-york-2?osq=burgers,cheap,love
+"32-02 30th Ave
+Astoria, NY 11102",11102,Burgers,Burger Club,$$,4.0,https://www.yelp.com/biz/burger-club-astoria?osq=burgers,normal,hate
+"259 5th Ave
+Brooklyn, NY 11215",11215,"Gastropubs, Burgers, Beer, Wine & Spirits",Brooklyn Burgers & Beer,$$,4.0,https://www.yelp.com/biz/brooklyn-burgers-and-beer-brooklyn?osq=burgers,normal,hate
