@@ -8,10 +8,7 @@ How to get an email every day at 8am
 - crontab -e
 
 
-0 8 * * * python3 Homework-09.py (At 8am I reveived an email every minute because I forgot that 0...)
+0 8 * * * python3 homework09_dailyweather.py (At 8am I reveived an email every minute because I forgot that 0...)
 
-<<<<<<< HEAD:09-homework/crontab.txt
-* 18 * * * python3 scraping_nyt_homework-09.py
+* 18 * * * python3 homework09_scraping_nyt.py
 =======
-- safe it and exit.
->>>>>>> 5a89477ad63579efc8ab1c9686144570028c0785:crontab.txt
